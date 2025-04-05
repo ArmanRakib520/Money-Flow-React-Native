@@ -1,0 +1,65 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Xcode
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcscmblueprint
+*.xcsettings
+DerivedData/
+*.hmap
+*.ipa
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+*.iml
+*.keystore
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+.env
+.env.*
+.bundle
+.expo/
+.expo-shared/
+coverage/
+*.jks
+*.p8
+*.p12
+*.key
+*.crt
+
+# Metro cache
+.metro-cache/
+
+# Watchman
+.watchmanconfig
+
+# Log files
+*.log
+
+# VS Code
+.vscode/
+
+# Firebase
+ios/GoogleService-Info.plist
+android/app/google-services.json
